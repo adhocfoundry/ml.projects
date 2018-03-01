@@ -1,5 +1,4 @@
-### Machine Learning: Project 001
-## Housing Simple Regression - Multivariate
+### Machine Learning Projects and Learnings
 
 
 
